@@ -129,8 +129,8 @@ This project is licensed under the MIT License — feel free to use, fork, and s
 ## 📬 Contact
 
 For queries or contributions, feel free to reach out:
-**Author**: Dhruv Mendiratta
-**Email**: \[[your-email@example.com](mailto:dhruv.mendiratta4@gmail.com)]
+**Author**: Dhruv Mendiratta  
+**Email**: \[[Gmail](mailto:dhruv.mendiratta4@gmail.com)]  
 **LinkedIn**: \([Connect on LinkedIn](https://www.linkedin.com/in/dhruv-mendiratta-132a46255/))
 
 ]
