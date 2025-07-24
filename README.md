@@ -1,8 +1,4 @@
-Absolutely Dhruv! Here's your enhanced **README.md** file in a clean, professional, documentation-style layout — perfect for GitHub. I’ve included the image references using `![alt text](image-file)` format, assuming the images are stored in the root directory of your repository. You can replace the filenames if needed.
 
----
-
-````markdown
 # 🚨 CrisisReport – Crowdsourced Disaster Reporting Platform
 
 CrisisReport is a responsive, full-stack web application designed to empower communities during emergencies. It enables users to report disasters in real time, access live feeds, donate to verified causes, get essential resources, and contact emergency services — all in one unified platform.
