@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crowdsourced Disaster Reporting</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>#map { height: 300px; margin-bottom: 16px; border-radius: 8px; }</style>
+</head>
+<body>
+    <div class="container">
+        <h1>Report a Disaster</h1>
+        <form id="reportForm" method="POST" action="/report" enctype="multipart/form-data">
+            <label for="description">Description:</label>
+            <textarea id="description" name="description" required></textarea>
+            <label for="map">Select Location:</label>
+            <button type="button" id="useLocationBtn">Use My Current Location</button>
+            <div id="map"></div>
+            <div id="locationError" style="color:red; display:none;"></div>
+            <input type="hidden" id="lat" name="lat" required>
+            <input type="hidden" id="lng" name="lng" required>
+            <input type="hidden" id="address" name="address">
+            <label for="image">Image (optional):</label>
+            <input type="file" id="image" name="image" accept="image/*">
+            <button type="submit">Submit Report</button>
+        </form>
+        <h2>Recent Reports</h2>
+        <div id="reports"></div>
+    </div>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="/static/script.js"></script>
+</body>
+</html> 

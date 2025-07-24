@@ -1,0 +1,109 @@
+[
+  {
+    "id": "1",
+    "description": "Major building collapse in downtown area. Multiple casualties reported.",
+    "address": "Connaught Place, New Delhi, India",
+    "lat": "28.6315",
+    "lng": "77.2167",
+    "severity": "Severe",
+    "image_url": null
+  },
+  {
+    "id": "2",
+    "description": "Flooding in residential area, water level rising.",
+    "address": "Kolkata, West Bengal, India",
+    "lat": "22.5726",
+    "lng": "88.3639",
+    "severity": "Moderate",
+    "image_url": null
+  },
+  {
+    "id": "3",
+    "description": "Minor fire in local market, quickly contained.",
+    "address": "Chandni Chowk, Delhi, India",
+    "lat": "28.6562",
+    "lng": "77.2301",
+    "severity": "Minor",
+    "image_url": null
+  },
+  {
+    "id": "4",
+    "description": "Earthquake tremors felt, no damage reported.",
+    "address": "Pune, Maharashtra, India",
+    "lat": "18.5204",
+    "lng": "73.8567",
+    "severity": "Minor",
+    "image_url": null
+  },
+  {
+    "id": "5",
+    "description": "Bridge collapse, several vehicles affected.",
+    "address": "Howrah Bridge, Kolkata, India",
+    "lat": "22.5850",
+    "lng": "88.3468",
+    "severity": "Severe",
+    "image_url": null
+  },
+  {
+    "id": "6",
+    "description": "Heavy rainfall causing traffic jams.",
+    "address": "Bangalore, Karnataka, India",
+    "lat": "12.9716",
+    "lng": "77.5946",
+    "severity": "Moderate",
+    "image_url": null
+  },
+  {
+    "id": "7",
+    "description": "Power outage in several sectors.",
+    "address": "Noida, Uttar Pradesh, India",
+    "lat": "28.5355",
+    "lng": "77.3910",
+    "severity": "Minor",
+    "image_url": null
+  },
+  {
+    "id": "8",
+    "description": "Explosion in chemical factory, emergency services on site.",
+    "address": "Vadodara, Gujarat, India",
+    "lat": "22.3072",
+    "lng": "73.1812",
+    "severity": "Severe",
+    "image_url": null
+  },
+  {
+    "id": "9f9d2495f7e44c2ba307785de6857c6c",
+    "emergencyType": "Crime",
+    "severity": "Medium",
+    "address": "Lat: 29.8232568, Lng: 77.4587127",
+    "lat": "29.8232568",
+    "lng": "77.4587127",
+    "description": "My phone was stolen",
+    "phone": "9013669130",
+    "image_url": null
+  },
+  {
+    "id": "7cb12bee9ec042bf91d89bcd39b8d080",
+    "emergencyType": "Flood",
+    "severity": "Low",
+    "address": "Malviya Nagar Power Grid, Jaipur Municipal Corporation, Sanganer Tehsil, Jaipur, Rajasthan, India",
+    "lat": "26.8593667",
+    "lng": "75.8098088",
+    "description": "There is waterlogging all over the place ",
+    "phone": "",
+    "image_url": null
+  },
+  {
+    "id": "9b47b868ed844b5089b624038bfa42a1",
+    "emergencyType": "Earthquake",
+    "severity": "Low",
+    "address": "Delhi, India",
+    "lat": "28.6328027",
+    "lng": "77.2197713",
+    "description": "small tremors no loss",
+    "phone": "",
+    "image_url": null,
+    "timestamp": "2025-07-24T11:46:18.190051Z",
+    "status": "Monitoring"
+  }
+]
